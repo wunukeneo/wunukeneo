@@ -25,7 +25,7 @@ Thesis: Design of an Efficient Water Pumping System for Mayine Hostel, Federal U
 Solar energy conversion systems, Wind energy conversion systems, Biofuels, Hydrogen energy  and fuel cells, Carbon Capture and Storage, Modeling towards net-zero carbon dioxide emissions,  Steam and Gas turbine electric power plant performance, reciprocating internal combustion engine  performance, Heat transfer in thermal systems  
 
 ## PUBLICATIONS 
-**Refereed Journal Articles **<br>
+**Refereed Journal Articles**<br>
 - Linus, A.A., Kaisan, M.U., Bankong, D.B., Bonet, M.U., and Solomon, W.C.  Characterization of Thevetia Peruviana Seed Oil Biodiesel as Aero Derivative Gas Turbine  Engine Fuel, African Journal of Renewable and Alternative Energy, Vol. 7, pp 36-51.  ISSN: 2006-0394
 - Samuel M., Muhammad S.U., Solomon W.C., and Japheth G.C. (2023). Economic  Analysis of Wind Farm Feasibility in Nigerian Defence Academy, Afaka, Kaduna,  Academy Journal of Science and Engineering, AJSE 17 (1) 2023
 - Abel E. Airoboman, Neville S.Idiagi, Wunuken C. Solomon, and Emmanuel Sueshi  (2022). Design and Implementation of Solar Wheelbarrow System for Rural Communities  in Nigeria, Energy Learning Articles, The Renewable Energy Institute, 24/05/2022
