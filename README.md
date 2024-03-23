@@ -61,7 +61,30 @@ Solar energy conversion systems, Wind energy conversion systems, Biofuels, Hydro
 
  
 ## WORK EXPERIENCE: 
-**CURRENT POSITION**
+**CURRENT POSITION**<br>
+Northern Illinois University, Illinois, USA <br>
+Visiting Research Scholar. Department of Mechanical Engineering <br>
+Research Engagement: Renewable energy technologies, and modelling towards net-zero carbon emissions, more specifically hydrogen and fuel cells <br>
+
+## TEACHING EXPERIENCE:
+Nigerian Defence Academy, Kaduna, Nigeria  <br>
+Senior Lecturer, Department of Mechanical Engineering (October 2018 –Present) <br>
+
+**Teach the following postgraduate courses:** <br>
+- MEC 915 Advanced Energy Engineering (Doctoral Level)
+- MEC 815 Non-Conventional Energy Sources (Master Level)
+- MEC 824 Heat and Mass Transfer (Master Level)
+- MPM 811 Quality Control and Reliability Analysis (Professional Master) ∙
+- MPM 821 Decision and Risk Analysis (Professional Master)
+<br>
+MEC 711Engineering Mathematics I (Postgraduate Diploma) ∙ MEC 721 Engineering Mathematics II (Postgraduate Diploma) ∙ MEC 733 Mechanical Engineering Design I (Postgraduate Diploma) ∙ MEC 740 Mechanical Engineering Design II (Postgraduate Diploma) Teach the following undergraduate courses:
+- MEC 425 Power Plant Engineering
+- MEC 416 Strength of Materials IV
+- MEC 323 Thermodynamics III
+- MEC 320 Metrology
+- MEC 314 Mechanical Design 
+
+
 
 
 
