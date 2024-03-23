@@ -46,7 +46,7 @@ Solar energy conversion systems, Wind energy conversion systems, Biofuels, Hydro
 - D.K. Garba, W.C. Solomon, S.U. Mohammed and C.O.Izelu, (2014), “Investigation into  the Effectiveness of Stainless Steel as a Material for the Production of Motor Cycle Burn  Protector”, International Journal of Emerging Technology and Advanced Engineering”,  Vol. 4 (2), pp. 247-252.
 - W.C. Solomon, S.U. Mohammed and S.Y. Egoh, (2013), “A Preliminary Investigation into  the Effect of Ambient Temperature on Biogas Generation using Cow-Dung from Afaka for  Household Cooking”, International Journal of Emerging Trend and Technology, Vol.6 (8),  pp. 405-409.
 - W.C. Solomon, M.U Bonet and S.U. Mohammed (2013), “Performance Investigation of a  650W Domestic Portable Power Generator using Ethanol as an Alternative Fuel”,  International Journal of Engineering Research and Technology, Vol. 2 (10), pp. 3845-850.
-<br>
+
 **Conference Proceedings**<br>
   - Muhammad S.U., Solomon W.C., Samuel M. and Achara N. (2022). “Investigating the  Possibility of Hybridizing Solar Energy Resources for Domestic in Two in Nigeria”,  presented at the National Solar Energy Forum (NASEF 2022), on Role of Green Energy  on Sustainable National Security and Economic Growth, Nigerian Defence Academy,  Kaduna, 29th– 30th August 2022.
   - N. Achara, S.U. Mohammad, W. Solomon (2022). “The Influence of Certain Factors on  Photovoltaic Module Performance”, presented at the National Solar Energy Forum  (NASEF 2022), on Role of Green Energy on Sustainable National Security and Economic  Growth, Nigerian Defence Academy, Kaduna, 29th– 30th August 2022.
