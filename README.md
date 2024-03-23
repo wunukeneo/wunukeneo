@@ -77,7 +77,7 @@ Senior Lecturer, Department of Mechanical Engineering (October 2018 –Present) 
 - MPM 811 Quality Control and Reliability Analysis (Professional Master) ∙
 - MPM 821 Decision and Risk Analysis (Professional Master)
 <br>
-MEC 711Engineering Mathematics I (Postgraduate Diploma) ∙ MEC 721 Engineering Mathematics II (Postgraduate Diploma) ∙ MEC 733 Mechanical Engineering Design I (Postgraduate Diploma) ∙ MEC 740 Mechanical Engineering Design II (Postgraduate Diploma) Teach the following undergraduate courses:<br> 
+MEC 711Engineering Mathematics I (Postgraduate Diploma) ∙ MEC 721 Engineering Mathematics II (Postgraduate Diploma) ∙ MEC 733 Mechanical Engineering Design I (Postgraduate Diploma) ∙ MEC 740 Mechanical Engineering Design II (Postgraduate Diploma) Teach the following undergraduate courses: <br> 
 - MEC 425 Power Plant Engineering
 - MEC 416 Strength of Materials IV
 - MEC 323 Thermodynamics III
