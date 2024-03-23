@@ -76,14 +76,19 @@ Senior Lecturer, Department of Mechanical Engineering (October 2018 –Present) 
 - MEC 824 Heat and Mass Transfer (Master Level)
 - MPM 811 Quality Control and Reliability Analysis (Professional Master) ∙
 - MPM 821 Decision and Risk Analysis (Professional Master)
+- MEC 711Engineering Mathematics I (Postgraduate Diploma)
+- MEC 721 Engineering Mathematics II (Postgraduate Diploma) ∙
+- MEC 733 Mechanical Engineering Design I (Postgraduate Diploma) ∙
+- MEC 740 Mechanical Engineering Design II (Postgraduate Diploma)
 
-MEC 711Engineering Mathematics I (Postgraduate Diploma) ∙ MEC 721 Engineering Mathematics II (Postgraduate Diploma) ∙ MEC 733 Mechanical Engineering Design I (Postgraduate Diploma) ∙ MEC 740 Mechanical Engineering Design II (Postgraduate Diploma) Teach the following undergraduate courses: <br> 
+**Teach the following undergraduate courses:** <br> 
 - MEC 425 Power Plant Engineering
 - MEC 416 Strength of Materials IV
 - MEC 323 Thermodynamics III
 - MEC 320 Metrology
-- MEC 314 Mechanical Design 
+- MEC 314 Mechanical Design
 
+**Lecturer I, Department of Mechanical Engineering (October 2014 -2018) Nigerian Defence Academy, Kaduna**
 
 
 
