@@ -47,7 +47,21 @@ Solar energy conversion systems, Wind energy conversion systems, Biofuels, Hydro
 - W.C. Solomon, S.U. Mohammed and S.Y. Egoh, (2013), “A Preliminary Investigation into  the Effect of Ambient Temperature on Biogas Generation using Cow-Dung from Afaka for  Household Cooking”, International Journal of Emerging Trend and Technology, Vol.6 (8),  pp. 405-409.
 - W.C. Solomon, M.U Bonet and S.U. Mohammed (2013), “Performance Investigation of a  650W Domestic Portable Power Generator using Ethanol as an Alternative Fuel”,  International Journal of Engineering Research and Technology, Vol. 2 (10), pp. 3845-850.
 <br>
-**Conference Proceedings**
+**Conference Proceedings**<br>
+  - Muhammad S.U., Solomon W.C., Samuel M. and Achara N. (2022). “Investigating the  Possibility of Hybridizing Solar Energy Resources for Domestic in Two in Nigeria”,  presented at the National Solar Energy Forum (NASEF 2022), on Role of Green Energy  on Sustainable National Security and Economic Growth, Nigerian Defence Academy,  Kaduna, 29th– 30th August 2022.
+  - N. Achara, S.U. Mohammad, W. Solomon (2022). “The Influence of Certain Factors on  Photovoltaic Module Performance”, presented at the National Solar Energy Forum  (NASEF 2022), on Role of Green Energy on Sustainable National Security and Economic  Growth, Nigerian Defence Academy, Kaduna, 29th– 30th August 2022.
+  - Samuel M., Muhammad S.U., and Solomon W.C. (2022). “Economic Analysis of Wind  Generated Electricity from Three Selected Sites in Nigeria”, presented at the National Solar  Energy Forum (NASEF 2022), on Role of Green Energy on Sustainable National Security  and Economic Growth, Nigerian Defence Academy, Kaduna, 29th– 30th August 2022.
+  - B.K, Odunola and W.C. Solomon (2022). “Determination of Best Ratio for Optimal Biogas  Yield from the codigestion of Cow Dung and Chicken Droppings under Ambient  Condition, presented at the National Solar Energy Forum (NASEF 2022), on Role of Green  Energy on Sustainable National Security and Economic Growth, Nigerian Defence  Academy, Kaduna, 29th– 30th August 2022.
+  - A.A. Linus, M.U. Bonet, W.C. Solomon, M.U. Kaisan, B.G. Ibrahim and N.A. Ismail  (2021). “Performance Analysis of Yellow Oleander Seed Oil Biodiesel Powered Aero  derivative Gas Turbine Engine” presented at ISAE 2021, 1st International Seminar on  Aeronautics and Energy 2021-Virtual, Organized by the School of Mechanical  Engineering, Institute for Vehicle Systems and Engineering (IVeSE), Universiti Teknologi,  Johor Bahru, Malaysia 28th August 2021.
+  - A. Sa’ad, W.C. Solomon, E.V. Oghenemarho and M.T. Hamisu (2021), Exergy Analysis  of a Gas Turbine Power Plant using Jatropha Biodiesel, Conventional Diesel and Natural  Gas, 5th– 6th Thermal and Fluids Engineering Conference (TFEC) Virtual Conference, 26  – 28, May 2021.
+  - W.C. Solomon, S.U. Muhammad and A. Sa’ad (2019) “Investigating the Fuel Potential of  Rice Husk Biomass for the Integrated Gasification Combined Cycle Power Plant”,  presented at the National Engineering Conference 2018, on the Role of Engineering in the  Diversification of Nigerian Economy, Faculty of Engineering, Ahmadu Bello University,  Zaria, 3rd– 6th April 2019.
+  - S.U. Muhammad, W.C. Solomon and A. Sa’ad (2019) “Analysis of Wind Data and its  Energy Potential across Three Cities in Nigeria”, presented at the National Engineering  Conference 2018, on the Role of Engineering in the Diversification of Nigerian Economy,  Faculty of Engineering, Ahmadu Bello University, Zaria, 3rd– 6th April 2019.
+  - A. Sa’ad, S.U. Muhammad and W.C. Solomon (2019) “Renewable Energy Development  in Nigeria: Challenges and the way Forward”, presented at the National Engineering  Conference 2018, on the Role of Engineering in the Diversification of Nigerian Economy,  Faculty of Engineering, Ahmadu Bello University, Zaria, 3rd– 6th April 2019.
+  - W.C. Solomon (2007) “Biomass for Electricity Generation in Rural Areas of Nigeria”  presented at the Nigerian Institution of Mechanical Engineers Conference and General  Meeting, Strategy and Policy Guides on Energy Systems for Sustainable Growth, Arewa  House, Kaduna, 19th– 23rd July 2007.
+
+ 
+## WORK EXPERIENCE: 
+**CURRENT POSITION**
 
 
 
