@@ -4,6 +4,11 @@
 
 ## MY PROFILE
 
+## EDUCATION 
+**PhD, Thermofluids and Energy Engineering, 2017** <br> 
+**Nigerian Defence Academy, Kaduna, Nigeria**<br> 
+**Thesis: Performance Assessment of Gas Turbine Engines Utilizing Locally Sourced Biodiesels  for Power Generation in Nigeria** <br> 
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wunukeneo)](https://github.com/anuraghazra/github-readme-stats)
