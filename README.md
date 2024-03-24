@@ -20,8 +20,7 @@ Dr. Solomon's new role at NIU signifies an exciting phase in his career and offe
 Northern Illinois University and the Department of Mechanical Engineering are thrilled to welcome Dr. Wunuken Carlos Solomon to their team. His arrival is eagerly anticipated, and his contributions are expected to make a lasting impact on the university's research capabilities and on the broader field of renewable energy.
 
 
-**Dr. Wunuken Carlos Solomon's Pioneering Research at the Forefront of Addressing the Climate Crisis and US Decarbonization Goals**
-In a world grappling with the far-reaching impacts of the climate crisis, Dr. Wunuken Carlos Solomon emerges as an icon, navigating the complex landscape of clean energy research to combat the impending environmental challenges.
+### Dr. Wunuken Carlos Solomon's Pioneering Research at the Forefront of Addressing the Climate Crisis and US Decarbonization Goals
 
 In a world grappling with the far-reaching impacts of the climate crisis, Dr. Wunuken Carlos Solomon emerges as an icon, navigating the complex landscape of clean energy research to combat the impending environmental challenges. With a keen understanding of the critical issues at hand, we delve into the profound implications of the climate crisis, the ambitious goals set by the United States and the United Nations, the current setbacks faced by US companies, and Dr. Solomon's groundbreaking contributions that promise a sustainable future.
 
