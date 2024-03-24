@@ -122,8 +122,38 @@ Taught the following undergraduate courses:
 - ENG 212 Engineering Drawing I
 
 ## REVIEW OF PAPERS FOR SCHOLARLY JOURNALS 
+I have successfully reviewed the following papers for scholarly journals <br> 
+- Modeling and Simulation of Laminate Composite Materials (Mild Steel-Bulk Metallic  Glass Dyneema) for use as Ballistic Protection) Academy Journal of Science and  Engineering (AJSE) 2023
+- Assessment of Mechanization Status for some Major Crop Value Chain in Ghana,  Academy Journal of Science and Engineering (AJSE) 2023
+- Modelling Rocket Performance Parameters, Academy Journal of Science and Engineering  (AJSE) 2022
+- The Characterization of Beehive-Ginger Fiber Reinforced Polyester Composite, Academy  Journal of Science and Engineering (AJSE) 2022
 
 
+## THESIS SUPERVISION 
+**Doctoral level (2017 – Present)** <br> 
+I have successfully co-supervised three (3) PhD students. 
+- Modelling of Compressible Flow for Determination of Drag Effects over a High-Speed  Rocket Propulsion System. Gideon Chinemerem Japheth [2023]
+- Synthesis, Performance and Economic Analysis of Estolide-Based Hydraulic Brake  Fluids from Yellow Oleander (Thevita Peruviana) Seed Oil. Oyefolahan Ahmed  Oyedokun [2023]
+- Techno-Economic Assessment of a Wind Farm in Nigerian Defence Academy Permanent  Site, Kaduna, Mary Samuel [2022]
+
+**Master’s level (2017 – Present)** <br> 
+I have successfully supervised fourteen (14) graduate students at the master’s level: ∙ Investigating the Performance of Two Marine Gas Turbine Engines Installed Onboard  Nigerian Navy Ship Okpabana while voyaging. Alkasim Ahmed Sulaiman [2023] ∙ Investigating the Performance and Exhaust Emissions of Calabash Gourd Biodiesel Blend  on a Compression Ignition Engine. Mustapha Ridwan [2023] <br> 
+- A Comparative Study of the Physicochemical Properties of some Selected Engine Oils in  Nigeria, El-Hussaini Kabiru Rumah [2022]
+- Investigating the Performance, Combustion and Emissions Characteristics of Biodiesels  Fired Gas Turbine Power Plant, Ahmad Jauro [2022]
+- Investigating the Prospect of Developing a Liquid Fuel from Corn Cob through Fischer  Tropsch Process, Subulade Manuwa [2022]
+- Techno-Economic and Emission Analysis of a Prospective Wind-Diesel Genset for Jos and  Sokoto, Nigeria, Bernard Ihichukwu [2021]
+- Design and Simulation of Solar Water Heater for the Nigerian Defence Academy Medical  Centre, Ahmed Shaibu [2020]
+- A Study of Biogas Generation from the codigestion of Cow Dung and Chicken Droppings,  Bashirat Kikelomo Odunola [2021],
+- Characterization of Aviation Gasoline (AVGAS) and Analysis of its Effect on the Idle  Mode Performance of NAF Super Mushak Aircraft Engines, Mohammed Lawal Ali [2019] ∙ Development of an Improved Low-Grade Waste Heat Recovery Thermoelectric Power  Generator, Adamu Obed Ali [2019]
+- Analysis of Lift/Drag Characterization of Thermoset Cast Aerofoil at Low Reynolds  Number, Mohammed Abubakar Aliyu [2019]
+- Comparative analysis of the Fuel Properties of Optimized Jatropha Biodiesel and Auto  Gas Oil Blends, Oladele Ayo Kolade [2018]
+- Exergy Analysis of a Gas Turbine Power Plant using Jatropha Biodiesel, Natural Gas and  Conventional Diesel, Ehijeri Victor Oghenemarho [2017]
+- Performance and NOx Emission Assessment of Land Based Gas Turbine using Neem  Biodiesel as Fuel, Kunoun Tarimobowei [2017] 
+
+**Undergraduate Level** <br>
+I have supervised several undergraduate projects since 2003. 
+
+## GRANT (CO-RESEARCHER) 
 
 
 
