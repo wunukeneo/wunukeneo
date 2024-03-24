@@ -180,7 +180,7 @@ I have supervised several undergraduate projects since 2003.
 - Academy Provost Commendation for excellent performance as a Member of the  Organizing Committee Nigerian Defence Academy National Discourse on Peace Support  Operations (2009)
 - Head of Department Commendation on the invaluable services and cooperation during the  2007 National Universities Commission Accreditation Exercise (2007)
 
-  ## CONFERENCES ATTENDED
+## CONFERENCES ATTENDED
   - 40th Edition of the National Solar Energy Forum (NASEF 2022) held at Nigerian Defence  Academy, Kaduna, 29th– 30th August 2022
   - ISAE 2021, 1st International Seminar on Aeronautics and Energy 2021-Virtual, Organized  by School of Mechanical Engineering, Institute for Vehicle Systems and Engineering  (IVeSE), Universiti Teknologi, Johor Bahru, Malaysia 28th August 2021.
   - 5th– 6th Thermal and Fluids Engineering Conference (TFEC) Virtual Conference, 26 – 28  May 2021.
