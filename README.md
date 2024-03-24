@@ -61,6 +61,32 @@ Beyond the scientific realm, Dr. Wunuken's work resonates with the humanitarian 
 In a world grappling with the complexities of the climate crisis, Dr. Wunuken Carlos Solomon's research stands as a testament to the transformative power of science and innovation. His contributions pave the way for a sustainable future, offering solutions that address the urgent challenges posed by climate change. As the world navigates a critical juncture, Dr. Solomon's work emerges as a beacon of hope, guiding the way toward a cleaner, healthier, and more resilient planet.
 
 
+
+### Renowned Energy Visionary, Wunuken Carlos Solomon, Spearheads Revolutionary Advances in Clean Hydrogen and Bioenergy Research
+
+Wunuken Carlos Solomon is a distinguished Energy Professor and Clean Hydrogen and Bioenergy Researcher with a Ph.D. in Thermofluids and Energy Engineering. Currently serving as a Visiting Research Scholar at Northern Illinois University, Dr. Wunuken’s research focuses on advancing clean energy technologies and modeling for net-zero CO2 emissions, with particular emphasis on hydrogen energy and fuel cells.
+
+Dr. Wunuken’s expertise is dedicated to propelling global decarbonization, aligning with the ambitious objectives set forth by the United Nations and the United States government to achieve net-zero greenhouse gas emissions by 2050. Currently serving as a Renewable Energy Researcher in the Department of Mechanical Engineering at Northern Illinois University (NIU), Dr. Wunuken conducts groundbreaking research on renewable energy technologies, with a focus on hydrogen energy and fuel cells.
+
+**Research Contributions and Innovations**
+
+**Energy Cost-Saving Breakthrough:** Dr. Wunuken’s groundbreaking research in energy has significantly reduced the thermal energy requirement of hydrogen production, resulting in a substantial 4% cost reduction. This breakthrough positions the United States as a value and cost leader in clean hydrogen production, potentially saving billions of dollars.
+
+**Optimization of Biodiesel Process Variables:** Dr. Wunuken has developed a production model optimizing biodiesel process variables, achieving a remarkable 98.5% yield through the transesterification of Jatropha Curcas crude.
+
+**Biodiesel from a Combination of Feedstock:** Addressing the quality of biodiesel, Dr. Wunuken innovatively produced biodiesel from a blend of Jatropha and Neem oils, yielding a high-performance Jatropha-Neem oil biodiesel fuel. This biodiesel demonstrated success in Internal Combustion Engines and is poised for patenting and commercialization.
+
+**Portable Gasifier for Sustainable Fuel Production:** Collaborating with other scientists, Dr. Wunuken designed, fabricated, and tested a portable downdraft gasifier for the efficient gasification of corn cob biomass, generating raw materials for sustainable liquid hydrocarbon fuels.
+
+Beyond these, Dr. Wunuken’s plan involves advancing his research to expand the energy mix through innovative grid-connected system models, incorporating concentrating solar-thermal power and land-based wind energy technologies. Additionally, he aims to conduct advanced research on fuel effects and combustion for improved internal combustion engine performance and state-of-the-art decarbonized hydrogen production methods.
+
+Notably, his contributions align seamlessly with national commitments, including the landmark memorandum signed by the U.S. Department of Energy, U.S. Department of Transportation, U.S. Environmental Protection Agency, and the U.S. Department of Housing and Urban Development. This collective commitment underscores the importance of hydrogen fuel cells in transportation and US economy decarbonization.
+
+Moreover, legislative actions by President Joe Biden, such as the Bipartisan Infrastructure Law and the Inflation Reduction Act, demonstrate a strong federal endorsement of clean hydrogen, reinforcing Dr. Wunuken’s over 10-year research into clean energy. Internationally, the Paris Agreement emphasizes the transition to clean energy systems, including hydrogen, aligning with Dr. Wunuken’s global efforts to reduce carbon emissions and combat climate change.
+
+Significantly, Dr. Carlos Solomon Wunuken’s groundbreaking research and innovative contributions play a pivotal role in advancing clean energy, making him a key figure in shaping a sustainable future for the United States and the world.
+
+
 ## EDUCATION 
 PhD, Thermofluids and Energy Engineering, 2017 <br> 
 Nigerian Defence Academy, Kaduna, Nigeria<br> 
