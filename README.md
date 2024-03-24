@@ -88,11 +88,40 @@ Senior Lecturer, Department of Mechanical Engineering (October 2018 –Present) 
 - MEC 320 Metrology
 - MEC 314 Mechanical Design
 
-**Lecturer I, Department of Mechanical Engineering (October 2014 -2018) Nigerian Defence Academy, Kaduna**
+**Lecturer I, Department of Mechanical Engineering (October 2014 -2018) Nigerian Defence Academy, Kaduna** <br> 
+Taught the following postgraduate courses: <br> 
+- MEC 815 Non-Conventional Energy Sources, 2016- 2018, (Master Level) ∙ 
+- MEC 824 Heat and Mass Transfer,2016- 2018, (Master Level)  ∙
+- MEC 746 Measurement and Instrumentation (Postgraduate Diploma)  ∙
+- MEC735 Heat and Mass Transfer (Postgraduate Diploma) ∙
+- MEC 733 Mechanical Engineering Design I (Postgraduate Diploma) ∙
+- MEC 715 Engineering Graphics (Postgraduate Diploma)
 
+Taught the following undergraduate courses: <br> 
+- MEC 441 Refrigeration and Air-conditioning
+- MEC 323 Thermodynamics III
+- MEC 311 Machine Drawing
+- ENG 222 Engineering Drawing II
+- ENG 212 Engineering Drawing I
 
+**Lecturer II, Department of Mechanical Engineering (2009- 2014) Nigerian Defence Academy, Kaduna** <br> 
+Taught the following undergraduate courses: 
+- MEC 329 Turbomachinery
+- MEC 323 Thermodynamics III
+- MEC 311 Machine Drawing
+- MEC 222 Thermodynamics II
+- ENG 212 Engineering Drawing
 
+**Assistant Lecturer, Department of Mechanical Engineering (2001 – 2009) Nigerian Defence Academy, Kaduna** <br> 
+Taught the following undergraduate courses: 
+- MEC 311 Machine Drawing
+- MEC 222 Thermodynamics II
+- ENG 222 Engineering Drawing II
+- MEC 223 Fluid Mechanics II
+- ENG 219 Fluid Mechanics I
+- ENG 212 Engineering Drawing I
 
+## REVIEW OF PAPERS FOR SCHOLARLY JOURNALS 
 
 
 
