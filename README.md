@@ -1,4 +1,4 @@
-### Hi, I'm  Dr. Wunuken Jan 👋
+### Hi, I'm  Dr. Wunuken Carlos Solomon 👋
 ![](https://github.com/wunukeneo/wunukeneo/blob/main/welcome.jpg?raw=true)
 
 
