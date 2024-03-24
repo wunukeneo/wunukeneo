@@ -2,7 +2,6 @@
 ![](https://github.com/wunukeneo/wunukeneo/blob/main/welcome.jpg?raw=true)
 
 
-## MY PROFILE
 
 ## EDUCATION 
 PhD, Thermofluids and Energy Engineering, 2017 <br> 
