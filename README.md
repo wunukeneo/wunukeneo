@@ -20,6 +20,48 @@ Dr. Solomon's new role at NIU signifies an exciting phase in his career and offe
 Northern Illinois University and the Department of Mechanical Engineering are thrilled to welcome Dr. Wunuken Carlos Solomon to their team. His arrival is eagerly anticipated, and his contributions are expected to make a lasting impact on the university's research capabilities and on the broader field of renewable energy.
 
 
+**Dr. Wunuken Carlos Solomon's Pioneering Research at the Forefront of Addressing the Climate Crisis and US Decarbonization Goals**
+In a world grappling with the far-reaching impacts of the climate crisis, Dr. Wunuken Carlos Solomon emerges as an icon, navigating the complex landscape of clean energy research to combat the impending environmental challenges.
+
+In a world grappling with the far-reaching impacts of the climate crisis, Dr. Wunuken Carlos Solomon emerges as an icon, navigating the complex landscape of clean energy research to combat the impending environmental challenges. With a keen understanding of the critical issues at hand, we delve into the profound implications of the climate crisis, the ambitious goals set by the United States and the United Nations, the current setbacks faced by US companies, and Dr. Solomon's groundbreaking contributions that promise a sustainable future.
+
+**The Climate Crisis: A Global Concern with Devastating Consequences**
+
+As the climate crisis escalates, the repercussions become increasingly evident, posing severe threats to health, the environment, and global stability. The US Environmental Protection Agency (EPA) highlights the emergence of frequent, intense, and prolonged extreme weather events, contributing to health crises and widespread environmental degradation. Greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and fluorinated gases, exacerbate the greenhouse effect, contributing to global warming and climate change.
+
+**US and UN Decarbonization Goals: A Struggle Amidst Setbacks**
+
+The United States, in alignment with global efforts, has set ambitious goals for decarbonization, aiming to achieve net-zero greenhouse gas (GHG) emissions by 2050. However, an Accenture report reveals a concerning reality—only 18% of US companies are on track to meet the carbon-neutral 2050 goal. Despite substantial investments by the Biden-Harris Administration, the actualization of these targets remains elusive.
+
+**Dr. Solomon: A Leading Force in Clean Energy Research**
+
+Dr. Wunuken Carlos Solomon, an Energy Professor and Clean Hydrogen and Bioenergy Researcher emerges as a pivotal figure in the quest for sustainable solutions. His expertise, backed by a Ph.D. in Thermofluids and Energy Engineering, positions him as a visionary scientist dedicated to bridging the gap between the urgent need for decarbonization and the current challenges the renewable energy sector faces.
+
+**Decoding Dr. Wunuken's Research: A Multifaceted Approach**
+
+Dr. Wunuken's research spans key areas crucial for achieving decarbonization goals:
+
+**Hydrogen Production:** Dr. Wunuken's expertise in hydrogen electrolysis becomes paramount in the US Clean Hydrogen Electrolysis Program context. His work addresses critical challenges, emphasizing renewable pathways and non-GHG emission processes.
+
+**Thermofluids Mastery:** Dr. Solomon's breakthrough in reducing the thermal energy requirement of hydrogen production, showcased in the Clean Hydrogen initiative, promises substantial cost savings. This positions the United States as a leader in cost-efficient clean hydrogen production.
+
+**Bioenergy Advancements:** His contributions extend to bioenergy research, notably achieving a 99% yield in biodiesel production through innovative blends of Jatropha and Neem oils. This signifies a monumental shift within the industry, offering cleaner alternatives to traditional fossil fuels.
+
+**Wind and Solar Innovations:** Dr. Wunuken's interdisciplinary approach to wind and solar energy solutions reflects his commitment to addressing intricate energy challenges. His efforts in advancing tandem cells and optimizing photovoltaic systems showcase his dedication to expanding the horizons of solar energy technology.
+
+**A Call to Action: The Urgency of Dr. Solomon's Research**
+
+As the Biden-Harris Administration's clean energy goals face challenges, Dr. Wunuken's research emerges as a catalyst for tangible and impactful change. His commitment to achieving cleaner, more efficient energy alternatives aligns seamlessly with the United Nations' Sustainable Development Goals (SDGs) and climate action initiatives.
+
+**The Humanitarian Perspective: Climate Crisis and Displacement**
+
+Beyond the scientific realm, Dr. Wunuken's work resonates with the humanitarian implications of the climate crisis. The UN Refugee Agency projects a staggering 200 million people in need of humanitarian assistance annually by 2050 because of climate change. Dr. Wunuken's dedication to renewable energy research stems from a deep awareness of the potential humanitarian crisis if climate change remains unaddressed.
+
+**Dr. Solomon's Research - A Ray of Hope in Challenging Times**
+
+In a world grappling with the complexities of the climate crisis, Dr. Wunuken Carlos Solomon's research stands as a testament to the transformative power of science and innovation. His contributions pave the way for a sustainable future, offering solutions that address the urgent challenges posed by climate change. As the world navigates a critical juncture, Dr. Solomon's work emerges as a beacon of hope, guiding the way toward a cleaner, healthier, and more resilient planet.
+
+
 ## EDUCATION 
 PhD, Thermofluids and Energy Engineering, 2017 <br> 
 Nigerian Defence Academy, Kaduna, Nigeria<br> 
