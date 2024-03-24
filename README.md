@@ -154,10 +154,55 @@ I have successfully supervised fourteen (14) graduate students at the master’s
 I have supervised several undergraduate projects since 2003. 
 
 ## GRANT (CO-RESEARCHER) 
+- Development of Polymer Matrix Composite for High Impact Resistance Application  sponsored by Nigeria's Tertiary Education Trust Fund (TETFund) at a cost of  N1,900,000.00 in 2012. Completed.
+- Design and Production of Horse-Dung Charged Biodigester for the Supply of Cooking Gas  sponsored by the Nigerian Defence Academy Research Intervention at N3,200,000.00 in  2019. Completed.
+
+## SERVICES IN THE ACADEMY
+- Programme Coordinator Directorate of Linkages and Collaboration (2022 – 2023) ∙ Content Assessor Doctoral Student’s Research Conference (2021-2023) ∙ Faculty Postgraduate Coordinator (2021 – 2023) ∙ Departmental Postgraduate Coordinator (2021 – 2023) ∙ Asst. Faculty Examination Officer (2020 – 2021) ∙ Departmental Quality Assurance Representative (2019 – 2021)  ∙ Departmental Examination Officer (2015 -2021) ∙ Departmental Registration Officer (2002 -2014)
+- Representative of Postgraduate School in External Defence of PhD/M. Eng Theses for the  Department of Electrical Electronics Engineering (2019 – 2023)  ∙ Representative of Postgraduate School in External Defence of PhD/MSc Theses for the  Department of Physics (2018)
+
+## COMMITTEE SERVICES IN THE ACADEMY 
+- Member Nigerian Defence Academy Postgraduate School Student Appraisal Committee  2021/2022 Academic Session (2023)
+- Member Nigerian Defence Academy Postgraduate Admissions Committee 20212022  Academic Session (2022 – Date) ∙ Chairman Departmental Examination Verification Committee (2021- Date) ∙ Member Committee for the Establishment of Nigerian Defence Academy Journal of  Engineering and Technology (2021 – 2023) ∙ Member Faculty Internal Mock Accreditation Committee in Preparation for National  University Commission (NUC) 2021 (2021) ∙ Chairman, Departmental Committee to compile List of Graduates from 1993 – 2021 for  COREN (2021) ∙ Member Departmental Examination Committee (2019 -2020) ∙ Member Academy Committee for the Review of Current Examination Regulations for  Cadets and Postgraduate School Students in NDA (2019) ∙ Member Publicity Subcommittee for Combined Convocation of Post Graduate Students  and 66 Regular Cadets (2019) ∙ Member Publicity Subcommittee for Combined Convocation of Post Graduate Students  and 65 Regular Cadets (2018) ∙ Chairman NUC Accreditation Sub-Committee on Examination, Staff and Cadets Records  (2018)
+- Member Thermofluids and Energy Engineering Cluster (2017 – Date) ∙ Member Research and Development Committee (2017 - 2018) ∙ Member Curriculum Review Committee (2017 – 2018) ∙ Member Departmental Research Committee (2002 - Date) 
+- Member Departmental Internal Examination Moderation Committee 
+- Member Organizing Committee National Discourse a Peace Support Operations  (2009) 
+- Member Departmental Postgraduate Committee to Develop Postgraduate Curriculum  (2009) 
+- Secretary Departmental Council for the Regulation of Engineering in Nigeria  Accreditation Committee (2008) ∙ Member Faculty Interdisciplinary Research Committee (2008) ∙ Member Departmental Nigerian University Commission (NUC) Accreditation  Committee (2007) ∙ Chairman Mechanical Engineering Department Welfare Committee 
 
 
+## ACADEMIC SERVICE NIGERIAN DEFENCE ACADEMY 
+- Visiting Lecturer, Department of Mechanical Engineering, Air Force Institute of  Technology, Kaduna. Taught GET 205 Fundamentals of Fluid Mechanics (2023) ∙ External Moderator for the moderation of a cluster of related subjects in Aircraft  Engineering Technology, Air Force Institute of Technology, Kaduna (2019 -2020
+
+## COMMENDATIONS
+- Academy Registrar Commendation for Effective Teaching and Learning (2019) ∙ Head of Department Commendation for selfless service as Departmental Examination  Officer (2017)
+- Academy Provost Commendation for Exemplary Commitment as Departmental  Examination Officer (2016)
+- Academy Provost Commendation for excellent performance as a Member of the  Organizing Committee Nigerian Defence Academy National Discourse on Peace Support  Operations (2009)
+- Head of Department Commendation on the invaluable services and cooperation during the  2007 National Universities Commission Accreditation Exercise (2007)
+
+  ## CONFERENCES ATTENDED
+  - 40th Edition of the National Solar Energy Forum (NASEF 2022) held at Nigerian Defence  Academy, Kaduna, 29th– 30th August 2022
+  - ISAE 2021, 1st International Seminar on Aeronautics and Energy 2021-Virtual, Organized  by School of Mechanical Engineering, Institute for Vehicle Systems and Engineering  (IVeSE), Universiti Teknologi, Johor Bahru, Malaysia 28th August 2021.
+  - 5th– 6th Thermal and Fluids Engineering Conference (TFEC) Virtual Conference, 26 – 28  May 2021.
+  - National Engineering Conference, Faculty of Engineering, Ahmadu Bello University,  Zaria, Kaduna State, Nigeria, 14 – 17 November 2018.
+  - ASME Turbo Expo and Technical Conference Bella Center, Copenhagen, Denmark, 11- 15 June 2012.
+  - Strategies and Policy Guides on Energy Systems for Sustainable Development: 20th National Mechanical Engineering Conference and Annual General Meeting, Arewa House,  Kaduna, Nigeria, 19 – 23 July, 2007.
 
 
+## WORKSHOPS / TRAINING 
+- Tertiary Education Trust Fund (TETFund) Capacity Building Workshop on Effective  Training on Supervision of Graduate Research in Nigeria Public Tertiary Institutions held  on Exclusive Serene Hotel and Suites Abuja, 7th– 11th August 2023
+- Council for the Regulation of Engineering in Nigeria (COREN) Workshop on  Implementation of Outcome-Based Education (OBE) in Engineering Programmes in  Nigerian Universities with the Theme; COREN OBE Train-the-Trainer Workshop for the  Implementation in the Universities held at Ahmadu Bello University Zaria, 20th– 23rd September 2021
+- International Computer Driving License (ICDL) Programme Training under the  Sponsorship of Tertiary Education TrustFund (TetFund) at Nigerian Defence Academy,  Kaduna April 2021
+- Advanced Digital Appreciation Programme for Tertiary Institutions Statistical Package for  Social Sciences organised by Digital Bridge Institute at Nigerian Defence Academy,  Kaduna, 19th– 23rd August 2019
+- Exam Ethics Marshalls Training and Induction Course. Exam Ethics Marshall  International, Kaduna 2017
+- In-house Workshop on the Use of Science Direct and Library Automation Soft wares,  organised by Nigerian Defence Academy Library, Kaduna 2015
+- Advanced Digital Appreciation Program-Tertiary (ADAPT) Training at Digital Bridge  Institute Abuja, 16th– 20th May 2011
+- Education Trust Fund (ETF) Sponsored Autocad Capacity Building Programme for  Tertiary Institution Students, Kaduna Polytechnic, 16th– 27th July 2007
+- One Week In-house Training on Basic Computer Operations and Maintenance:  Department of Mechanical Engineering, Nigerian Defence Academy, Kaduna (2005)
+
+
+## For Business Inquiries:
+**► E-Mail: wunukencarlos69@gmail.com** <br>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wunukeneo)](https://github.com/anuraghazra/github-readme-stats)
 
