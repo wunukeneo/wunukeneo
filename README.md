@@ -1,6 +1,20 @@
 ### Hi, I'm  Dr. Wunuken Carlos Solomon 👋
 ![](https://github.com/wunukeneo/wunukeneo/blob/main/welcome.jpg?raw=true)
 
+## My Profile
+**Africa's Leading Energy Professor, Dr. Wunuken Carlos Solomon, Embarks on International Journey with Northern Illinois University** <br>
+
+In a significant move for global energy research, Dr. Wunuken Carlos Solomon, a preeminent figure in renewable energy advancements from Africa and fondly called "a Better Planet Futurist", is set to join Northern Illinois University (NIU) as a Visiting Research Scholar in the Department of Mechanical Engineering. Beginning May 2024, Dr. Solomon will bring his extensive expertise in wind, solar, biodiesel, and hydrogen technologies to assist NIU in their cutting-edge hydrogen energy and fuel cells research.
+
+Dr. Solomon's career has been marked by groundbreaking achievements in the renewable energy sector. His innovative approach to biodiesel production, utilizing a blend of Jatropha and Neem oils, has achieved a remarkable 99% yield, significantly surpassing industry standards and offering a sustainable alternative to fossil fuels. This work not only demonstrates his dedication to cleaner energy but also his ability to pioneer changes that have a real-world impact.
+
+In the field of hydrogen energy, Dr. Solomon has made transformative contributions by applying advanced thermo-fluids principles to reduce the thermal energy demands of hydrogen production systems. His efforts have resulted in a substantial decrease in thermal energy requirements, from 11% to 7%, thus lowering barriers to hydrogen energy adoption and setting new benchmarks in the field.
+
+Beyond biodiesel and hydrogen, Dr. Solomon has made significant strides in wind and solar energy. His engineering of a 5 Mega Watts(MW) wind farm at the National Defense Academy in Kaduna, Nigeria, capable of powering the entire university, underscores his leadership in renewable energy solutions. Additionally, his research on the Maximum Power Point (MPP) dependency of photovoltaic systems on geographical locations has provided valuable insights into optimizing solar energy capture across different meteorological conditions.
+
+Dr. Solomon's new role at NIU signifies an exciting phase in his career and offers the university an invaluable opportunity to benefit from his wealth of knowledge and experience. By collaborating with NIU's Department of Mechanical Engineering, Dr. Solomon aims to further advance research in hydrogen energy and fuel cells, promising to propel the university and the field of renewable energy research forward.
+
+**Dr. Solomon expressed his enthusiasm about the collaboration, stating, "Joining NIU represents a remarkable opportunity to contribute to and shape the future of renewable energy on a global scale. I look forward to collaborating with colleagues at NIU to explore new frontiers in hydrogen energy and beyond."**
 
 
 ## EDUCATION 
