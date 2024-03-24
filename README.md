@@ -3,7 +3,7 @@
 
 ## My Profile
 ![](https://github.com/wunukeneo/wunukeneo/blob/main/image%20(1).jpg?raw=true)
-**Africa's Leading Energy Professor, Dr. Wunuken Carlos Solomon, Embarks on International Journey with Northern Illinois University** <br>
+### Africa's Leading Energy Professor, Dr. Wunuken Carlos Solomon, Embarks on International Journey with Northern Illinois University
 
 In a significant move for global energy research, Dr. Wunuken Carlos Solomon, a preeminent figure in renewable energy advancements from Africa and fondly called "a Better Planet Futurist", is set to join Northern Illinois University (NIU) as a Visiting Research Scholar in the Department of Mechanical Engineering. Beginning May 2024, Dr. Solomon will bring his extensive expertise in wind, solar, biodiesel, and hydrogen technologies to assist NIU in their cutting-edge hydrogen energy and fuel cells research.
 
