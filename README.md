@@ -16,6 +16,8 @@ Dr. Solomon's new role at NIU signifies an exciting phase in his career and offe
 
 **Dr. Solomon expressed his enthusiasm about the collaboration, stating, "Joining NIU represents a remarkable opportunity to contribute to and shape the future of renewable energy on a global scale. I look forward to collaborating with colleagues at NIU to explore new frontiers in hydrogen energy and beyond."**
 
+Northern Illinois University and the Department of Mechanical Engineering are thrilled to welcome Dr. Wunuken Carlos Solomon to their team. His arrival is eagerly anticipated, and his contributions are expected to make a lasting impact on the university's research capabilities and on the broader field of renewable energy.
+
 
 ## EDUCATION 
 PhD, Thermofluids and Energy Engineering, 2017 <br> 
