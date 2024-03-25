@@ -30,13 +30,14 @@ To address the issue of improving the quality of biodiesel produced from single-
 ![image](https://github.com/wunukeneo/wunukeneo/assets/164189720/701a865f-def7-485e-ab63-0c2c4f7b9bf6) <br>
    Plate 1 Developed Biodiesel fuels.
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-
+ 
 Table 1 Fuels and Oils Description
+| S/N      | Fuel | Composition     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+
 S/N	Fuel	Composition
 1	B0	100% by volume conventional diesel
 2	B10	10% by volume Jatropha-Neem oil biodiesel and 90% conventional diesel
