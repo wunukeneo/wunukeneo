@@ -27,8 +27,11 @@ The equation can be used to model a similar optimization design for multiple bio
 Development of Biodiesel from a combination of feedstock
 To address the issue of improving the quality of biodiesel produced from single-plant feedstock, the innovation is to produce biodiesels from a combination of feedstock for high performance while at the same time mitigating carbon emissions. The idea is to use the strength of one of the feedstocks to offset the weakness of the other. I have successfully developed biodiesel from a combination of Jatropha and Neem oils mixed at 50:50 to obtain a fine-rate Jatropha-Neem oil biodiesel fuel. The fuel was also produced in blended forms with conventional diesel at different ratios expertly using state-of-the-art methods. The biodiesels were tested with remarkable success in Internal Combustion Engines with minor modifications to the engines and can be patented and commercialized. A picture of the biodiesels is presented in Plate 1, and the description of the fuels and oils are presented in Table 1.
 
-![image](https://github.com/wunukeneo/wunukeneo/assets/164189720/701a865f-def7-485e-ab63-0c2c4f7b9bf6)
+![image](https://github.com/wunukeneo/wunukeneo/assets/164189720/701a865f-def7-485e-ab63-0c2c4f7b9bf6) <br>
    Plate 1 Developed Biodiesel fuels.
+
+( --- )
+
 
 Table 1 Fuels and Oils Description
 S/N	Fuel	Composition
