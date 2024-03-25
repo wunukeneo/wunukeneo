@@ -34,8 +34,16 @@ To address the issue of improving the quality of biodiesel produced from single-
 Table 1 Fuels and Oils Description
 | S/N      | Fuel | Composition     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| 1      | Title       | Here's this   |
+| 2   | Text        | And more      |
+| 3   | Text        | And more      |
+| 4   | Text        | And more      |
+| 5   | Text        | And more      |
+| 6   | Text        | And more      |
+| 7   | Text        | And more      |
+| 8   | Text        | And more      |
+| 10   | Text        | And more      |
+| 11  | Text        | And more      |
 
 
 S/N	Fuel	Composition
