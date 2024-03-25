@@ -34,17 +34,17 @@ To address the issue of improving the quality of biodiesel produced from single-
 Table 1 Fuels and Oils Description
 | S/N      | Fuel | Composition     |
 | :---        |    :----:   |          ---: |
-| 1      | B0       | Here's this   |
-| 2   | B10        | And more      |
-| 3   | B20        | And more      |
-| 4   | B30        | And more      |
-| 5   | B40        | And more      |
-| 6   | B50        | And more      |
-| 7   | B100        | And more      |
-| 8   | N-B100       | And more      |
-| 9   | J-100       | And more      |
-| 10   | Neem       | And more      |
-| 11  | JAT        | And more      |
+| 1      | B0       | 100% by volume conventional diesel   |
+| 2   | B10        | 10% by volume Jatropha-Neem oil biodiesel and 90% conventional diesel      |
+| 3   | B20        | 20% by volume Jatropha-Neem oil biodiesel and 80% conventional diesel      |
+| 4   | B30        | 30% by volume Jatropha-Neem oil biodiesel and 70% conventional diesel      |
+| 5   | B40        | 40% by volume Jatropha-Neem oil biodiesel and 60% conventional diesel      |
+| 6   | B50        | 50% by volume Jatropha-Neem oil biodiesel and 50% conventional diesel      |
+| 7   | B100        | 100% by volume Jatropha-Neem biodiesel (Unblended)      |
+| 8   | N-B100       | Unblended Neem oil biodiesel      |
+| 9   | J-100       | Unblended Jatropha oil biodiesel      |
+| 10   | Neem       | Unblended Neem oil      |
+| 11  | JAT        | Unblended Jatropha oil      |
 
 
 S/N	Fuel	Composition
