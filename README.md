@@ -11,7 +11,7 @@ https://www.rsvpweekly.com/blog-posts/africas-leading-energy-professor-dr-wunuke
 
 
 ## Inventions
-### Biodiesel
+### 1. Biodiesel
 
 Development of a model equation for the optimization of biodiesel process variables for maximal yield.
 
@@ -55,13 +55,14 @@ To further demonstrate the practical applicability of my biodiesel, I constructe
 ![image](https://github.com/wunukeneo/wunukeneo/assets/164189720/fecbb623-3aa3-409d-8106-ba547039581b) <br>
 Plate 2 Solid works model of the gasifier and the actual gasifier 
 
-### Hydrogen
+### 2. Hydrogen
 
 Clean hydrogen can be produced through using sustainable energy to power hydrogen electrolysis. Hence, I took my biodiesel application further to power hydrogen production, and I applied optimal thermochemical properties to reduce the thermal requirements.
+
 Hydrogen is often celebrated as the fuel of the future due to its high energy content per unit mass and its clean combustion, emitting only water vapor when burned. The production of hydrogen can be achieved through various methods, each with its own set of equations and principles. Below, we delve into two prominent methods: Electrolysis of water and Steam Methane Reforming (SMR), highlighting the fundamental equations that govern these processes.
 
-
-
+![image](https://github.com/wunukeneo/wunukeneo/assets/164189720/d661e8e1-c830-4d0d-8ec3-8bb5dea155d0) <br>
+![image](https://github.com/wunukeneo/wunukeneo/assets/164189720/22dfef32-dab9-4f43-a4bb-d313261c02a7) <br>
 
 
 ## EDUCATION 
